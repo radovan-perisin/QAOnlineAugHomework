@@ -1,0 +1,2 @@
+# QAOnlineAugHomework
+Domaci zadaci
